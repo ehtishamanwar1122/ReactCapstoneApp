@@ -1,0 +1,26 @@
+
+.nav-menu {
+    list-style: none;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 0.1px solid rgb(240, 82, 82);
+    border-radius: 30px;
+}
+
+.nav-menu li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: #000000;
+    padding: 10px 20px;
+    transition: background-color 0.2s;
+}
+
+.nav-menu a:hover {
+    background-color: #555;
+}

@@ -1,0 +1,23 @@
+/* Main.css */
+.main-content {
+    margin: 20px; 
+    padding: 20px; /* Add padding for content spacing */
+    border: 1px solid #ccc; /* Add a border for visual separation */
+    background-color: #fff; /* Set a background color to distinguish the content */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+     height: 45vh;
+     text-align: center;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(149, 40, 42);
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  p {
+    margin: 10px 0; /* Add spacing around the paragraph text */
+  }
+  

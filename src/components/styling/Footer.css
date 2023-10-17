@@ -1,0 +1,22 @@
+/* Footer.css */
+.footer {
+    border-top: 0.1px solid rgb(240, 82, 82);
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    text-decoration: none;
+    color: #000000;
+    margin: 0 10px;
+}
+
+.icon {
+    font-size: 30px;
+}
